@@ -111,14 +111,50 @@ a:hover {
 /* ==================================================
   Hero Styling
 ================================================== */
-.hero {
+/*.hero {
   display: table;
   position: relative;
+  background-image: url(../img/cover.jpg);
   background-size: cover;
-  padding: 150px 0;
+  padding: 0px 0;
   color: #fff;
   width: 100%;
   height: 100vh;
+}*/
+#logo{
+    align-top: 40px;
+}
+#slide1 {
+    display: table;
+    position: relative;
+    background-image: url(../media/performer-m.png);
+    background-size: cover;
+    padding: 150px 0;
+    color: #fff;
+    width: 100%;
+    height: 100vh;
+}
+
+#slide2 {
+    display: table;
+    position: relative;
+    background-image: url(../media/video.gif);
+    background-size: cover;
+    padding: 150px 0;
+    color: #fff;
+    width: 100%;
+    height: 100vh;
+}
+
+#slide3 {
+    display: table;
+    position: relative;
+    background-size: cover;
+    background-image: url(../media/scene.jpg);
+    padding: 150px 0;
+    color: #fff;
+    width: 100%;
+    height: 100vh;
 }
 
 .hero:after {

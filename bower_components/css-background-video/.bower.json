@@ -1,0 +1,20 @@
+{
+  "name": "css-background-video",
+  "version": "0.3.0",
+  "description": "An HTML5 shim to support background videos as a CSS attribute",
+  "main": [
+    "./build/css-background-video.js"
+  ],
+  "dependencies": {},
+  "homepage": "https://github.com/makesites/css-background-video",
+  "_release": "0.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.3.0",
+    "commit": "cc76e58edd925cc04de628c7df06a4743a1ab724"
+  },
+  "_source": "https://github.com/makesites/css-background-video.git",
+  "_target": "^0.3.0",
+  "_originalSource": "css-background-video",
+  "_direct": true
+}
