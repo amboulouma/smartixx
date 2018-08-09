@@ -1,2 +1,2 @@
-# hakhakhak
-This is a Blockchain ticketing project for transparent performances with any public
+# Smartixx
+Solve the Ticketing issue with the Blockchain
